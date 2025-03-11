@@ -45,7 +45,7 @@
           <button class="add-account-btn">Add New Account</button>
         </section>
 
-        <!-- Account Modal -->
+        
         <div id="account-modal" class="modal">
           <div class="modal-content">
             <span class="close-btn">&times;</span>
