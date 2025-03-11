@@ -134,7 +134,7 @@
   justify-content: center;
 }
 
-/* Modal Content */
+
 .modal-content {
   background: white;
   padding: 20px;
@@ -144,7 +144,7 @@
   position: relative;
 }
 
-/* Close Button */
+
 .close-btn {
   position: absolute;
   right: 10px;
@@ -153,7 +153,7 @@
   cursor: pointer;
 }
 
-/* Input Styling */
+
 input {
   width: 100%;
   padding: 8px;
@@ -162,7 +162,7 @@ input {
   border-radius: 4px;
 }
 
-/* Save Button */
+
 button[type="submit"] {
   background-color: #007BFF;
   color: white;
